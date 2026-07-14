@@ -40,7 +40,3 @@ This project is a Movie Ticket Booking System developed using MySQL. It manages 
 2. Open the `movie_ticket_booking.sql` file.
 3. Execute the queries.
 4. Run the sample SELECT queries to view the results.
-
-## Author
-
-Purnima Mungara
